@@ -1,0 +1,6 @@
+go to this site https://appicon.co/
+generate app icon 
+download
+for android: go to res-->drawable and delete all mipmap files
+extract the downloaded folder and copy all mipmap and paste where u deleted all mipmap file in res folder
+for ios go to Runner--> and delete assets.xcassets and copy assets.cassets and paste where u deleted in Runner folder
