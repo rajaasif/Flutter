@@ -1,0 +1,12 @@
+ child: Container(
+            margin: EdgeInsets.only(top: 40),
+            //EdgeInsets.only(top: 40)
+            //EdgeInsets.all(50),
+            //EdgeInsets.fromLTRB(10, 20, 30, 40),
+           // EdgeInsets.symmetric(vertical: 50, horizontal: 60),
+
+            color: Colors.indigo,
+            child: Text("HELLO"),
+
+          ),
+          same for padding.
